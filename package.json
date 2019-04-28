@@ -1,0 +1,8 @@
+{
+  "name": "lets-play",
+  "version": "1.0.0",
+  "description": "Turning a manual hobby of betting on footbal matches to a mathematically calculated automation.",
+  "main": "index.js",
+  "author": "njausteve",
+  "license": "MIT"
+}
